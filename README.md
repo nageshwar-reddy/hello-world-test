@@ -8,3 +8,5 @@ Checking branches............................
 
 
 Second Commit / Save
+
+Second Branch - Test closing the Issues
